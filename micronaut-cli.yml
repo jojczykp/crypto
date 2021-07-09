@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: crypto
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, graalvm, gradle, http-client, java, junit, logback, lombok, mockito, readme, shade, yaml]

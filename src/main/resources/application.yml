@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: crypto
+logger:
+  levels:
+    io.micronaut.function.aws: TRACE
+    io.micronaut.core.convert: TRACE
+    io.micronaut.context.env: TRACE
